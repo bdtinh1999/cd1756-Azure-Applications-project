@@ -1,4 +1,4 @@
-
+## URL: https://tinhbd1-app.azurewebsites.net/
 ## Comparison: Azure App Service vs Virtual Machines (VM)
 
 | **Criteria**     | **Azure App Service**                                        | **Azure Virtual Machines (VM)**                             |
