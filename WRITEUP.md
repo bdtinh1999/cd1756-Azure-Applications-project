@@ -1,12 +1,13 @@
-# Write-up Template
+# URL 
+URL: tinhbd1-app.azurewebsites.net
 
-### Analyze, choose, and justify the appropriate resource option for deploying the app.
+# Solution Choice: App Service
+Justification for Choosing App Service:
 
-*For **both** a VM or App Service solution for the CMS app:*
-- *Analyze costs, scalability, availability, and workflow*
-- *Choose the appropriate solution (VM or App Service) for deploying the app*
-- *Justify your choice*
+- Cost-Effectiveness: App Service typically has lower operational costs for smaller applications without the need for complex management.
 
-### Assess app changes that would change your decision.
+- Easy Scalability: Built-in auto-scaling features allow for efficient handling of fluctuating traffic.
 
-*Detail how the app and any other needs would have to change for you to change your decision in the last section.* 
+- High Availability: Managed services ensure high uptime with automatic failover capabilities.
+
+- Simplified Workflow: CI/CD integration facilitates faster development and deployment, reducing infrastructure management burdens.
